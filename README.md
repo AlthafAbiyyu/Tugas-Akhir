@@ -1,5 +1,5 @@
 Nama Anggota :
-Ibrahim Al Qudsy
-Althaf Abiyyu R. Y.
-Syahda Zahirah P. C.
-Pasha Fahmi Adjusta
+1. Ibrahim Al Qudsy
+2. Althaf Abiyyu R. Y.
+3. Syahda Zahirah P. C.
+4. Pasha Fahmi Adjusta
